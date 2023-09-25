@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695637164 source:c:\dev\algoritmerogdatastruktur\testprojekt\coevelse1\main.c
+	<stdio.h>
+	<stdlib.h>
+
